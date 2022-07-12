@@ -6,7 +6,7 @@ class Palette {  // the pallet name. used below to instatiate the class
         this.colour_1 = colour_1; // bind the colour_1 variable to the class to be used later by calling this.colour_1
     }
 
-    changeColour(new_colour){ // this is a functin bound to the class that can be used to change the "state" of the class
+    changeColour(new_colour){ // this is a function bound to the class that can be used to change the "state" of the class
         this.colour_1 = new_colour;
     }
 }
