@@ -1,3 +1,5 @@
+// the output of this will only be in the console log, so you will need to check dev tools to see
+
 class Palette {  // the pallet name. used below to instatiate the class
 
     constructor(colour_1) { // run when the class is created / instatiated
